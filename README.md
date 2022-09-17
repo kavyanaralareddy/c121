@@ -1,2 +1,2 @@
-# PRO-C108-Project-Template
-project template for c108
+# PRO-C120-Project-Template
+project template for c120
